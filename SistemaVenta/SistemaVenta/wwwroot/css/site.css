@@ -1,0 +1,16 @@
+﻿/* Creamos el estilo a la clase card*/
+
+/*Adaptar Resolucion de pantalla "Responsive"*/
+@media(min-width: 800px)
+{
+    .container
+    {
+        max-width: 60%;
+    }
+}
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    /*.carousel-caption {
+        display: none;
+    }*/
+}
